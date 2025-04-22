@@ -1,5 +1,5 @@
 # 漢検字幕漢字抽出ツール (Kanken Subtitle Kanji Extractor)  
-![Example PDF Output](assets/example.jpg)
+<img src="assets/example.jpg" width="400" alt="Example PDF Output">
 
 ## 日本語  
 このスクリプトは字幕ファイル(.srt/.ass)を分析して、漢検準一級・一級の漢字を自動で抽出してくれるツール！
